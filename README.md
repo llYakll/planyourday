@@ -2,7 +2,7 @@
 ## Overview
 The Work Day Scheduler is a simple calendar application designed to help users organize their work day effectively. With intuitive time blocks for standard business hours (9 AM to 5 PM), users can input tasks for each hour and save them for later reference. The scheduler dynamically updates to highlight past, present, and future time blocks, providing users with visual cues to manage their time efficiently.
 
-#Features
+# Features
 ## Dynamic Time Blocks: 
   Time blocks are generated for each hour from 9 AM to 5 PM, adapting to the current time and allowing users to schedule tasks accordingly.
   
