@@ -31,7 +31,7 @@ Click the save button next to the textarea to save the entered tasks to local st
 ### Retrieve Saved Tasks: 
   Saved tasks are automatically loaded from local storage when the scheduler is opened, allowing users to review and update their schedule as needed.
   
-# Installation
+# Usage
   Clone the repository or download the project files to your local machine.
 Open the index.html file in a web browser to launch the Work Day Scheduler, Additionally you can use the github pages included here!
 
